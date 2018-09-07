@@ -15,6 +15,8 @@ RDEPENDS_packagegroup-rpb-x11 = "\
     ${@bb.utils.contains("LICENSE_FLAGS_WHITELIST", "commercial_gstreamer1.0-libav", "gstreamer1.0-libav", "", d)} \
     gtkperf \
     kmscube \
+    openbox \
+    openbox-theme-clearlooks \
     mesa-demos \
     xf86-video-modesetting \
     xterm \
