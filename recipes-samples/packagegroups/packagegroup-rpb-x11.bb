@@ -16,8 +16,6 @@ RDEPENDS_packagegroup-rpb-x11 = "\
     gtkperf \
     kmscube \
     mesa-demos \
-    openbox \
-    openbox-theme-clearlooks \
     xf86-video-modesetting \
     xterm \
     "
